@@ -1,4 +1,4 @@
-# Training-Project-3
+![alt text](./3.png)
 
 ## Number Sequences
 
